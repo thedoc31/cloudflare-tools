@@ -2,7 +2,6 @@ cloudflare_access_application
 cloudflare_access_group
 cloudflare_access_identity_provider
 cloudflare_access_mutual_tls_certificate
-cloudflare_access_rule
 cloudflare_access_service_token
 cloudflare_account_member
 cloudflare_api_shield
@@ -17,7 +16,6 @@ cloudflare_custom_ssl
 cloudflare_filter
 cloudflare_firewall_rule
 cloudflare_healthcheck
-cloudflare_list
 cloudflare_load_balancer
 cloudflare_load_balancer_monitor
 cloudflare_load_balancer_pool
