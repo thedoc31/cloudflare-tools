@@ -1,0 +1,7 @@
+*.tf
+*.tfstate*
+*.hcl
+.terraform/*
+.env/*
+*.md
+*.bak
